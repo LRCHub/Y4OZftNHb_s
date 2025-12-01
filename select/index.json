@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "PIECE OF MY WISH",
+  "base_artist": "今井美樹",
+  "createdAt": "2025-12-01T12:37:19.709432Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PIECE OF MY WISH",
+      "artist": "今井美樹",
+      "has_synced": true,
+      "path": "select/01_PIECE_OF_MY_WISH_今井美樹.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "PIECE OF MY WISH",
+      "artist": "倖田來未",
+      "has_synced": false,
+      "path": "select/02_PIECE_OF_MY_WISH_倖田來未.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "PIECE OF MY WISH",
+      "artist": "今井美樹",
+      "has_synced": true,
+      "path": "select/03_PIECE_OF_MY_WISH_今井美樹.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "PIECE OF MY WISH",
+      "artist": "Aldious",
+      "has_synced": true,
+      "path": "select/04_PIECE_OF_MY_WISH_Aldious.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "PIECE OF MY WISH",
+      "artist": "今井美樹",
+      "has_synced": true,
+      "path": "select/05_PIECE_OF_MY_WISH_今井美樹.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "PIECE OF MY WISH",
+      "artist": "Miki Imai",
+      "has_synced": true,
+      "path": "select/06_PIECE_OF_MY_WISH_Miki_Imai.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "PIECE OF MY WISH",
+      "artist": "Miki Imai",
+      "has_synced": false,
+      "path": "select/07_PIECE_OF_MY_WISH_Miki_Imai.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Piece Of My Wish (2000 Mix)",
+      "artist": "今井美樹",
+      "has_synced": true,
+      "path": "select/08_Piece_Of_My_Wish_(2000_Mix)_今井美樹.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Piece of My Wish",
+      "artist": "Hey",
+      "has_synced": true,
+      "path": "select/09_Piece_of_My_Wish_Hey.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "PIECE OF MY WISH",
+      "artist": "今井美樹",
+      "has_synced": true,
+      "path": "select/10_PIECE_OF_MY_WISH_今井美樹.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "PIECE OF MY WISH",
+      "artist": "今井美樹",
+      "has_synced": true,
+      "path": "select/11_PIECE_OF_MY_WISH_今井美樹.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "PIECE OF MY WISH",
+      "artist": "Miki Imai",
+      "has_synced": false,
+      "path": "select/12_PIECE_OF_MY_WISH_Miki_Imai.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "PIECE OF MY WISH",
+      "artist": "今井美樹",
+      "has_synced": true,
+      "path": "select/13_PIECE_OF_MY_WISH_今井美樹.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "PIECE OF MY WISH - Live at 東京国際フォーラム / 2005",
+      "artist": "Miki Imai",
+      "has_synced": false,
+      "path": "select/14_PIECE_OF_MY_WISH_-_Live_at_東京国際フォーラム___2005_Miki_Imai.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Piece Of My Wish (Live At Tokyo International Forum / 2005)",
+      "artist": "Miki Imai",
+      "has_synced": false,
+      "path": "select/15_Piece_Of_My_Wish_(Live_At_Tokyo_International_Forum___2005)_Miki_Imai.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Piece of My Wish",
+      "artist": "森恵",
+      "has_synced": false,
+      "path": "select/16_Piece_of_My_Wish_森恵.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PIECE OF MY WISH",
+      "artist": "青木隆治",
+      "has_synced": false,
+      "path": "select/pl_01_PIECE_OF_MY_WISH_青木隆治.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "PIECE OF MY WISH",
+      "artist": "青木隆治",
+      "has_synced": false,
+      "path": "select/pl_02_PIECE_OF_MY_WISH_青木隆治.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "PIECE OF MY WISH",
+      "artist": "青木隆治",
+      "has_synced": false,
+      "path": "select/pl_03_PIECE_OF_MY_WISH_青木隆治.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "PIECE OF MY WISH",
+      "artist": "青木隆治",
+      "has_synced": false,
+      "path": "select/pl_04_PIECE_OF_MY_WISH_青木隆治.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "PIECE OF MY WISH",
+      "artist": "青木隆治",
+      "has_synced": false,
+      "path": "select/pl_05_PIECE_OF_MY_WISH_青木隆治.txt"
+    }
+  ]
+}
